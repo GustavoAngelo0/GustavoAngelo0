@@ -1,16 +1,26 @@
-## Hi there 👋
+#👨‍💻Gustavo Angelo
 
-<!--
-**GustavoAngelo0/GustavoAngelo0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*'Desenvolvedor Web'*
 
-Here are some ideas to get you started:
+ **Estudante de Análise e Desenvolvimento de Sistemas** na ETEC João Belarmino.
+ Apaixonado por desenvolvimento web, resolução de problemas e construção de aplicações eficientes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+###  No que venho trabalhando:
+-  Desenvolvimento de aplicações web full stack utilizando PHP e MySQL.
+-  Criação de interfaces responsivas e dinâmicas com HTML, CSS e JS.
+-  Praticando boas práticas de código e versionamento.
+
+---
+
+### Minhas Tecnologias & Ferramentas
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+---
