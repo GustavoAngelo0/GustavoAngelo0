@@ -48,10 +48,11 @@ Sistema de frente de caixa e controle de estoque desenvolvido em PHP e MySQL.
 
 ---
 
-###  Estatísticas do GitHub
+**📊 Estatísticas do GitHub**
 
-![Minhas Estatísticas](https://github-readme-stats.vercel.app/api?username=GustavoAngelo0&show_icons=true&theme=dark)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAngelo0&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GustavoAngelo0&theme=dark)
+
+---
 
 ###  Como me encontrar
 
