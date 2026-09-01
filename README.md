@@ -48,7 +48,7 @@ Sistema de frente de caixa e controle de estoque desenvolvido em PHP e MySQL.
 
 ---
 
-**📊 Estatísticas do GitHub**
+**Estatísticas do GitHub**
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GustavoAngelo0&theme=dark)
 
