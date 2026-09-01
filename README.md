@@ -1,4 +1,4 @@
-#  Gustavo Angelo
+#  Gustavo Angelo Dorigatti Pereira
 
 **Desenvolvedor Web | Full Stack Trainee**  
  Amparo, SP - Brasil  
