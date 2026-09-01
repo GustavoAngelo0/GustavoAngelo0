@@ -51,10 +51,9 @@ Sistema de frente de caixa e controle de estoque desenvolvido em PHP e MySQL.
 ###  Estatísticas do GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GustavoAngelo0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAngelo0&layout=compact&theme=dark"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GustavoAngelo0&show_icons=true&theme=dark&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAngelo0&layout=compact&theme=dark" />
 </div>
-
 ---
 
 ###  Como me encontrar
