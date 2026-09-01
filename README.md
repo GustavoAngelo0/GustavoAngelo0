@@ -1,30 +1,63 @@
-#👨‍💻Gustavo Angelo
+#  Gustavo Angelo
 
-*'Desenvolvedor Web'*
-
- **Estudante de Análise e Desenvolvimento de Sistemas** na ETEC João Belarmino.
- Apaixonado por desenvolvimento web, resolução de problemas e construção de aplicações eficientes.
-
----
-
-###  No que venho trabalhando:
--  Desenvolvimento de aplicações web full stack utilizando PHP e MySQL.
--  Criação de interfaces responsivas e dinâmicas com HTML, CSS e JS.
--  Praticando boas práticas de código e versionamento.
+**Desenvolvedor Web | Full Stack Trainee**  
+ Amparo, SP - Brasil  
+ Estudante de **Análise e Desenvolvimento de Sistemas** na ETEC João Belarmino
 
 ---
 
-### Minhas Tecnologias & Ferramentas
+###  Sobre Mim
 
+Desenvolvedor focado na criação de aplicações web completas, eficientes e seguras. Tenho experiência prática no desenvolvimento de sistemas de gestão (PDV) e soluções Full Stack, aplicando padrões de arquitetura como **MVC**, boas práticas de versionamento com **Git**, e medidas essenciais de segurança (prevenção contra SQL Injection via PDO e controle de acesso).
+
+*  **Atualmente focado em:** Aprofundamento em PHP moderno, arquitetura de software e bancos de dados relacionais.
+*  **Destaques:** Desenvolvimento do **PontoCaixa**, um sistema de gestão comercial e frente de caixa completo.
+*  **Interesses:** Desenvolvimento Web Back-End, modelagem de dados e otimização de interfaces.
+
+---
+
+###  Tecnologias e Ferramentas
+
+**Back-End & Linguagens**  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Front-End**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap%205-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Banco de Dados**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+**Ferramentas & Infraestrutura**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
 ---
+
+###  Projeto em Destaque
+
+**[ PontoCaixa - Sistema Web de Gestão e PDV](https://github.com/GustavoAngelo0/webSite_frandoro)**  
+Sistema de frente de caixa e controle de estoque desenvolvido em PHP e MySQL.
+* **Recursos:** Módulo de vendas assíncrono (AJAX/JSON), histórico de transações, fechamento de caixa, painel gerencial e conformidade com LGPD.
+* **Arquitetura:** Padrão MVC simplificado, uso de PDO para segurança e layout responsivo com Bootstrap 5.
+
+---
+
+###  Estatísticas do GitHub
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GustavoAngelo0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAngelo0&layout=compact&theme=dark"/>
+</div>
+
+---
+
+###  Como me encontrar
+
+*  **LinkedIn:** [Seu Perfil do LinkedIn](https://www.linkedin.com/in/seu-perfil) *(Ajuste seu link)*
+*  **E-mail:** [gustavo.angelo0910@gmail.com].(mailto:gustavo.angelo0910@gmail.com).
