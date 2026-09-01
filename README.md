@@ -59,5 +59,5 @@ Sistema de frente de caixa e controle de estoque desenvolvido em PHP e MySQL.
 
 ###  Como me encontrar
 
-*  **LinkedIn:** [Seu Perfil do LinkedIn](https://www.linkedin.com/in/seu-perfil) *(Ajuste seu link)*
-*  **E-mail:** [gustavo.angelo0910@gmail.com].(mailto:gustavo.angelo0910@gmail.com).
+*  **LinkedIn:** [Seu Perfil do LinkedIn](https://www.linkedin.com/in/seu-perfil) 
+*  **E-mail:** [gustavo.angelo0910@gmail.com]
